@@ -1,0 +1,35 @@
+commit 7e515729769c9eb08af9f7cf666de4eae07b2c6a
+Author: MikkoLuomaranta <mikkoluomaranta@gmail.com>
+Date:   Tue Oct 9 15:29:12 2018 +0300
+
+    some modifications
+
+commit 367c2c3424fdd1ea9e044a77cb1e34288b75db47
+Author: MikkoLuomaranta <mikkoluomaranta@gmail.com>
+Date:   Tue Oct 9 15:21:41 2018 +0300
+
+    deleted line
+
+commit 7dfa71b3b8cfb6dbcc5f21fb6cf0e49ae59188f6
+Author: MikkoLuomaranta <mikkoluomaranta@gmail.com>
+Date:   Tue Oct 9 15:19:18 2018 +0300
+
+    answer
+
+commit 6d57adaff15fddb5c4936563c9af62338b9691ef
+Author: MikkoLuomaranta <mikkoluomaranta@gmail.com>
+Date:   Tue Oct 9 15:12:12 2018 +0300
+
+    about the moon
+
+commit 61485f1ab0e13b71fb1b41630da7264ce35eec34
+Author: MikkoLuomaranta <mikkoluomaranta@gmail.com>
+Date:   Tue Oct 9 15:10:20 2018 +0300
+
+    added stuff about base
+
+commit 70e21086bb7dbff5ee9378aa52c489180fb5133e
+Author: MikkoLuomaranta <mikkoluomaranta@gmail.com>
+Date:   Tue Oct 9 14:59:05 2018 +0300
+
+    Created the file mars.txt
